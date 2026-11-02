@@ -1,0 +1,21 @@
+{
+ "name": "zcode-plugins-local",
+ "plugins": [
+  {
+   "name": "rules-digest",
+   "source": {
+    "source": "url",
+    "type": "zip",
+    "url": "https://raw.githubusercontent.com/davidserrata12-collab/zcode-plugins-local/main/plugin.zip",
+    "sha256": "3a2dda77aba2f8d801ae83d5db077d1c7b7c8a446c545d31ad4a6a9dfa660312",
+    "path": "."
+   },
+   "description": "Inject project rules digest into every user prompt",
+   "version": "1.0.0",
+   "author": {
+    "name": "operator"
+   },
+   "category": "productivity"
+  }
+ ]
+}
