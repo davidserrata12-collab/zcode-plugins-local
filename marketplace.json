@@ -7,8 +7,8 @@
     "source": "url",
     "type": "zip",
     "url": "https://raw.githubusercontent.com/davidserrata12-collab/zcode-plugins-local/main/plugin.zip",
-    "sha256": "3a2dda77aba2f8d801ae83d5db077d1c7b7c8a446c545d31ad4a6a9dfa660312",
-    "path": "."
+    "sha256": "9d28f238edbff146c63f49dd3dc36708d44c1b376ed3eeb73eedbdfd3f698653",
+    "path": "rules-digest"
    },
    "description": "Inject project rules digest into every user prompt",
    "version": "1.0.0",
